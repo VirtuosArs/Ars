@@ -27,6 +27,6 @@ In order to see the website you just need to open the `index.html` file in your 
 P
 * **w3Schools.com** for image slideshow content (https://www.w3schools.com)
 * favicon image from (https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)
-* logo image made from (https://logomakr.com/)
+* logo image 'ars2.png' made from (https://logomakr.com/)
 * fire image from (http://wallpapercave.com/wp/scUll9f.jpg)
 * Hat tip to anyone who's code was used
